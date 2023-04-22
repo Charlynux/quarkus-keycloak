@@ -12,7 +12,7 @@ Minimal repository to reproduce a strange behavior with `quarkus-oidc`.
 
 ## Reproduction steps
 
-- Go to [http://localhost:8080/init]
+- Go to http://localhost:8080/init
 - Click on the link
 - *You're redirected to a Keycloak login page*
 - Go back to previous page
